@@ -2,8 +2,6 @@
 <h3 align="center">A passionate fullstack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/IieZUsqoYCwAAAAM/developer.gif">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kunal-1906" alt="kunal-1906" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [https://portfolio-rho-sable-49.vercel.app/](https://portfolio-rho-sable-49.vercel.app/)
 
 - 💬 Ask me about **MERN , DSA**
