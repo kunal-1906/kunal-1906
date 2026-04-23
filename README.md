@@ -4,7 +4,7 @@
 
 - 👨‍💻 All of my projects are available at [https://portfolio-rho-sable-49.vercel.app/](https://portfolio-rho-sable-49.vercel.app/)
 
-- 💬 Ask me about **MERN , DSA**
+- 💬 Ask me about **MERN and Data Analytics**
 
 - 📫 How to reach me **kvig_be22@thapar.edu**
 
